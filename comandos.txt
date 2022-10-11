@@ -1,0 +1,11 @@
+git add .
+agrega cambios al repositorio
+
+git commit -m "Comentario del commit"
+agrega los cambios realizados al proyecto.
+recuerda que debes guardar antes de hacer esto
+
+
+git push
+nota: puedes hacer multiples git add y git commit y luego
+hacer un solo push final o varios como te plazca.
