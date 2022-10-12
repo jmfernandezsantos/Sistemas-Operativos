@@ -43,3 +43,18 @@
 ####  Respeto a la bio-diversidad y protección ambiental
 ####  Ser respetuoso con los estudiantes, propiciando siempre el debate de las ideas y el sentido crítico de los acontecimientos sociales y humanos.
 #
+## [3 -Competencias especificas de la Asignatura:](#justification)
+
+#### 1.- Capacidad para definir, evaluar y Seleccionar plataformas hardware y software para el desarrollo y la ejecución de sistemas, servicios y aplicaciones informáticas.
+#### 2.- Conocer los principios de diseño y principales componentes de los sistemas operativos.
+#### 3.- Capacidad para concebir, redactar, organizar, planificar, desarrollar y firmar proyectos en el ámbito de la ingeniería en informática que tengan por objeto la concepción, implementación o la explotación de sistemas, servicios y aplicaciones informáticas.
+#### 4.- Aptitud para estudiar las necesidades de información de las organizaciones, diseñar y proponer soluciones de infraestructura informática, y participar en su implantación.
+#### 5.- Aptitud para administrar sistemas operativos, desarrollando políticas para la gestión de usuarios, la gestión de la seguridad y la integridad de la información.
+#### 6.- Capacidad de análisis de casos y resolución de problemas.
+#### 7.- Capacidad para diseñar, desarrollar, evaluar y asegurar la accesibilidad, ergonomía, usabilidad y seguridad de los sistemas, servicios y aplicaciones informáticas, así como de la información que gestionan.
+#### 8.- Conocimiento de las características, funcionalidades y estructura de los Sistemas Operativos y diseñar e implementar aplicaciones basadas en sus servicios.
+#### 9.- Conocimiento, administración y mantenimiento de sistemas, servicios y aplicaciones informáticas.
+#### 10.- Capacidad para concebir y desarrollar sistemas o arquitecturas informáticas centralizadas o distribuidas integrando hardware, software y redes.
+#### 11.- Conocimiento y aplicación de los principios fundamentales y técnicas básicas de la programación paralela, concurrente, distribuida y de tiempo real.
+#### 12.- Capacidad para elaborar el pliego de condiciones técnicas de una instalación informática que cumpla los estándares y normativas vigentes
+#
