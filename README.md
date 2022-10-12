@@ -58,8 +58,7 @@
 #### 11.- Conocimiento y aplicación de los principios fundamentales y técnicas básicas de la programación paralela, concurrente, distribuida y de tiempo real.
 #### 12.- Capacidad para elaborar el pliego de condiciones técnicas de una instalación informática que cumpla los estándares y normativas vigentes
 #
-## [4 - Unidades de Aprendizajes](#Justification)
-### Contenidos
+## [4 - Unidades de Aprendizajes / Contenidos](#Justification)
 ## [Unidad I -  Introducción a los sistemas operativos](#Justification)
 ## [Unidad II - Gestión de Procesos](#justification)
 ## [Unidad III - Gestión de Memoria](#justification)
