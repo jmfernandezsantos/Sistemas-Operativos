@@ -13,7 +13,6 @@
 ## [2 -Descripcion de la asignatura](#justificacion)
 
 
-## Descripción de la asignatura:<a name="justificacion"></a>
 #### Esta asignatura corresponde al Ciclo de formación del segundo año de la carrera de Ingeniería de Sistemas. Tiene como prerrequisito la asignatura de Arquitectura de Sistemas, en la cual los estudiantes conocen de las diferentes arquitecturas de sistemas las cuales les ayudan a describir, tanto desde un punto de vista físico como lógico, la forma en la que trabajan los diferentes componentes de los mismos. Los cuatros (04) créditos de la asignatura se distribuyen en dos (02) teóricos y uno (02) práctico, logrando así, por una parte, analizar los principales componentes, funciones y características de los sistemas operativos; y concretar esas teorías en ejercicios a través de los casos prácticos que surgen en las unidades propias para esos fines.
 
 ### Los temas generales que contiene el programa de esta asignatura son:
