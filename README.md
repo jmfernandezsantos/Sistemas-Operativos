@@ -25,12 +25,12 @@
 
 ## [3 -Perfil requerido del docente que imparta Sistemas Operativos](#justificarion)
 
-## En la Dimensión académica debe:
+## En la dimensión académica debe:
 ###  Tener titulación a nivel grado Lic. de Sistemas, Ingeniera de Sistemas e Ingeniería Telemática,
 ###  Poseer título de maestría, especialmente en algún área de la ingeniería de Sistema.
 ###  Tener algunas certificaciones registradas, preferiblemente en las áreas que se relacionan (Opcional) : Seguridad, Sistemas Operativos, certificaciones de Cisco y cualquier Certificación de Microsoft.
 
-## [En la Dimensión laboral debe:](#justification)
+## En la dimensión laboral debe:
 
 ###  Tener experiencia docente universitaria, sobre todo impartiendo Sistemas Operativos.
 ###  Conocer y aplicar las estrategias metodológicas, así como los métodos e instrumentos evaluativos, acorde a la flexibilidad del
