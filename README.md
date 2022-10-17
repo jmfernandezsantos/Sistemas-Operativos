@@ -189,5 +189,44 @@
 #### 9.12 Backup y respaldo de archivos.
 #### 9.13 Manejo y configuración de servicios de GNU/Linux ( DNS, VPN, DHCP, MYSQL, Bacula, ftpd, Apache, Samba, Squid etc)
 #
+### Bibliografia Basica<a name="Biblio1"></a>
+#### 1. Jesus Carretero Perez, Felix Garcia Carballeira y Fernando Perez Costoya; (enero 2021). Sistemas Operativos: Una Visión Aplicada. 3 edición, Volumen II.
+#### 2. Gunnar Wolf, (Diciembre 2015). Fundamentos de sistemas Operativos
+#### 3. Martín Silva. (Septiembre 2016). Sistemas Operativos, 1er edición, Editorial Alfaomega Grupo Editor
+#### 4. Mónica Serna y Sandra Allende. Marzo 2021. Sistemas operativos: LINUX. Editorial Ariel Publisher
+#### 5. Andrew S. Tanenbaum (2003). Sistemas Operativos Modernos (Spanish Edition). Editorial Prentice Hall
+#### 6. Julio Gomez y Raul Baños (2006). Seguridad en Sistemas OPerativos Windows y Linux.
+#### 7. Ida M y McHoes Ann Flynn (Enero 2011). Sistemas Operativos (Spanish Edition). 6th edition, Editorial Cengage Learning
+#### 8. Gomez Lopez, Julio / Bermúdez Hernández, José Javier (2012). Administración Básica de Sistemas Operativos. Editorial STARBOOK.
+#### 10. William Stallings (2010). Sistemas Operativos, aspectos internos y principio de diseños, Quinta Edición, Editorial Prentice Hall
+#### 11. Daniel Sol Llaven (2015). Sistemas Operativos, Grupo Editorial Patria.
+#### 12. Miquel Colobran Huguet, Josep Maria Arqués Soldevila, Eduard Marco Galindo. (2008). Administración de sistemas operativos en red, Editorial UOC 
 
-
+### Bibliografia Complementaria<a name="Biblio2"></a>
+#### 1. Thierry Deman / Freddy Elmaleh, Septiembre 2015. Windows Server 2012R2, administración avanzada, Editorial Eni Ediciones
+#### 2. Jesus Carretero Perez, Felix Garcia Carballeira y Fernando Perez Costoya. Junion 2017. Prácticas de Sistemas Operativos (Spanish Edition.
+#### 3. Alejandro Salazar Yábar/Alejandro Salazar Santibañez. Julio 2022. INSTALACIÓN Y CONFIGURACIÓN DE SISTEMAS : Virtualización de equipos / Instalación de sistemas operativos / Conexión de equipos en red / Clonación de equipos (Spanish Edition)
+#### 4. John Madieu (Enero 2021) Mastering Linux Device Driver Development: Write custom device drivers to support computer peripherals in Linux operating systems.
+#### 5. Jordan Krause(julio 2021). Mastering Windows Server 2019: The complete guide for system administrators to install, manage, and deploy new capabilities with Windows Server 2019, 3rd Edition.
+### [Referencias en Linea<a name="Referencia"></a>
+https://aryconfig.wordpress.com/2014/11/22/administracion-de-sistemas-operativos/
+https://sites.google.com/site/servidores153uteq/clusters-de-servidores
+https://www.goconqr.com/mapamental/589071/sistemas-operativos
+https://www.administracionderedes.com/sistemas-operativos/componentes-de-un-sistema-operativo/
+https://www.youtube.com/watch?v=1C8x3nn-u_w
+https://www.youtube.com/watch?v=vtTtqvECxE4
+https://www.youtube.com/watch?v=nO4R5qu-7Os
+https://www.youtube.com/watch?v=qa7G7EvwN5U
+https://www.youtube.com/watch?v=-ZYIQ94XhGA
+https://www.youtube.com/watch?v=vIVKK9rZQqg
+https://www.youtube.com/watch?v=zybvGxjyR_k
+https://www.youtube.com/watch?v=kDD4hBVJGbA
+https://www.youtube.com/watch?v=K6kGSgD5hxU&list=PLXFOGHLLtDHtzZ7012YxtC8XqAlmhCrJy
+https://www.youtube.com/watch?v=OQbNFDfTDUk
+https://www.youtube.com/watch?v=knrc4q1S_q0
+https://www.youtube.com/watch?v=wBp0Rb-ZJak
+https://www.youtube.com/watch?v=sRLaeyEJpW4
+https://www.youtube.com/watch?v=09hrTL5w-Jc
+https://www.youtube.com/watch?v=fLQ6mUZ1GWs
+https://www.youtube.com/watch?v=XverdpeeVzQ
+https://bellard.org/jslinux/
