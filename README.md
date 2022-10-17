@@ -79,10 +79,10 @@
 #### 11.- Conocimiento y aplicación de los principios fundamentales y técnicas básicas de la programación paralela, concurrente, distribuida y de tiempo real.
 #### 12.- Capacidad para elaborar el pliego de condiciones técnicas de una instalación informática que cumpla los estándares y normativas vigentes
 #
-## [5 - Unidades de Aprendizajes / Contenidos<a name="Contenidos"></a>
-#
+## 5 - Unidades de Aprendizajes / Contenidos<a name="Contenidos"></a>
+
 ## [Unidad I -  Introducción a los sistemas operativos<a name="Unid1"></a>
-#
+
 #### 1.1 Conceptos generales de un sistema operativo.
 #### 1.2 Historia de los sistemas operativos.
 #### 1.3 Funciones y características de los sistemas operativos
@@ -91,9 +91,9 @@
 #### 1.6 Estructuras de los sistemas operativos.
 #### 1.7 Interfaz de programación de los sistemas Operativos.
 #### 1.8 Ejercicios. 
-#
+
 ## [Unidad II - Gestión de Procesos<a name="Unid2"></a>
-#
+
 #### 2.1 Introducción.
 #### 2.2 Concepto de Proceso.
 #### b2.3 Multitarea
