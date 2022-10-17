@@ -22,14 +22,14 @@
 ### [Bibliografia Complementaria](#Biblio2)
 ### [Referencias en Linea](#Referencia)
 ## Programa y/o Guia Docente<a name="Guia"></a>
-
+#
 ## 1 -Justificación/fundamentación de la asignatura<a name="Justifica"></a>
+#
 #### Esta asignatura tiene como objetivo introducir al alumnado en la gestión de recursos que debe hacer un sistema operativo para proveer de un interfaz uniforme a los programas.      Los alumnos deberán alcanzar las competencias necesarias para manejar y administrar un sistemaoperativo, así como adquirir la capacidad de instalar, configurar y operar distintos sistemas operativos. Los conceptos que se introducen le permitirán programar de una forma más efectiva, con mayor conocimiento sobre lo que está ocurriendo a más bajo nivel en el sistema. Además,se introducen otros conceptos como los del paralelismo y la necesidad de colaboración entre procesos para gestionar recursos compartidos. 
 #### Esta asignatura además proporciona un acercamiento a la línea de comandos de la familia de sistemas operativos basados en Unix (GNU/Linux, BSD,Mac OS X, Android, IOS). 
 #
-
 ## 2 -Descripcion de la asignatura<a name="descri"></a>
-
+#
 #### Esta asignatura corresponde al Ciclo de formación del segundo año de la carrera de Ingeniería de Sistemas. Tiene como prerrequisito la asignatura de Arquitectura de Sistemas, en la cual los estudiantes conocen de las diferentes arquitecturas de sistemas las cuales les ayudan a describir, tanto desde un punto de vista físico como lógico, la forma en la que trabajan los diferentes componentes de los mismos. Los cuatros (04) créditos de la asignatura se distribuyen en dos (02) teóricos y uno (02) práctico, logrando así, por una parte, analizar los principales componentes, funciones y características de los sistemas operativos; y concretar esas teorías en ejercicios a través de los casos prácticos que surgen en las unidades propias para esos fines.
 
 #### Los temas generales que contiene el programa de esta asignatura son:
@@ -46,12 +46,12 @@
 
 ## 3 -Perfil requerido del docente que imparta Sistemas Operativos<a name="Perfil"></a>
 
-## En la dimensión académica debe:
+### En la dimensión académica debe:
 ####  Tener titulación a nivel grado Lic. de Sistemas, Ingeniera de Sistemas e Ingeniería Telemática,
 ####  Poseer título de maestría, especialmente en algún área de la ingeniería de Sistema.
 ####  Tener algunas certificaciones registradas, preferiblemente en las áreas que se relacionan (Opcional) : Seguridad, Sistemas Operativos, certificaciones de Cisco y cualquier Certificación de Microsoft.
 
-## En la dimensión laboral debe:
+### En la dimensión laboral debe:
 
 ####  Tener experiencia docente universitaria, sobre todo impartiendo Sistemas Operativos.
 ####  Conocer y aplicar las estrategias metodológicas, así como los métodos e instrumentos evaluativos, acorde a la flexibilidad del
@@ -80,7 +80,9 @@
 #### 12.- Capacidad para elaborar el pliego de condiciones técnicas de una instalación informática que cumpla los estándares y normativas vigentes
 #
 ## [5 - Unidades de Aprendizajes / Contenidos<a name="Contenidos"></a>
+#
 ## [Unidad I -  Introducción a los sistemas operativos<a name="Unid1"></a>
+#
 #### 1.1 Conceptos generales de un sistema operativo.
 #### 1.2 Historia de los sistemas operativos.
 #### 1.3 Funciones y características de los sistemas operativos
@@ -89,8 +91,9 @@
 #### 1.6 Estructuras de los sistemas operativos.
 #### 1.7 Interfaz de programación de los sistemas Operativos.
 #### 1.8 Ejercicios. 
-
+#
 ## [Unidad II - Gestión de Procesos<a name="Unid2"></a>
+#
 #### 2.1 Introducción.
 #### 2.2 Concepto de Proceso.
 #### b2.3 Multitarea
@@ -104,7 +107,9 @@
 #### 2.9 Planificacion del procesador.
 #### 2.10 Algoritmos de planificación.
 #### 2.11 Ejercicios.
+#
 ## [Unidad III - Gestión de Memoria<a name="Unid3"></a>
+#
 #### 3.1 Introducción.
 #### 3.2 Objetivos del sistema de gestión de memoria.
 #### 3.3 Modelo de memoria de un proceso.
@@ -114,8 +119,9 @@
 #### 3.7 Memoria virtual.
 #### 3.8 Servicios de gestión de memoria.
 #### 3.9 Ejercicios. 
-
+#
 ## [Unidad IV - Comunicación y sincronización entre procesos<a name="Unid4"></a>
+#
 #### 4.1 Introducción.
 #### 4.2 Procesos concurrentes.
 #### 4.3 Problemas clásicos de comunicación y sincronización.
@@ -129,8 +135,9 @@
 #### 4.5 Paso de mensajes
 #### 4.6 Aspectos de implementación de los mecanismos de sincronización.  
 #### 4.7 Ejercicios
-
+#
 ## [Unidad V - Interbloqueos<a name="Unid5"></a>
+#
 #### 5.1 Introducción.
 #### 5.2 Los interbloqueos en un sistema informático.
 #### 5.3 Definición y caracterización del interbloqueo.
@@ -139,8 +146,9 @@
 #### 5.6 Prevención del interbloqueo.
 #### 5.7 Tratamiento del interbloqueo en los sistemas operativos.
 #### 5.8 Ejercicios. 
-
+#
 ## [Unidad VI - Entrada y Salida<a name="Unid6"></a>
+#
 #### 6.1 Introducción.
 #### 6.2 Características de los dispositivos de E/S.
 #### 6.3 Arquitectura del sistema de entrada/salida.
@@ -152,8 +160,9 @@
 #### 6.9 La red
 #### 6.10 Servicios de entrada/salida
 #### 6.11 Ejercicios. 
-
-## [Unidad VII - Gestión de Archivos y Directorios<a name="Unid7"></a>
+#
+## Unidad VII - Gestión de Archivos y Directorios<a name="Unid7"></a>
+#
 #### 7.1 Introducción.
 #### 7.2 Concepto de Archivos y Directorios.
 #### 7.3 Jerarquía de archivos y directorios.
@@ -161,8 +170,9 @@
 #### 7.5 Servicios de archivos y directorios.
 #### 7.6 Sistemas de archivos.
 #### 7.7 Ejercicios. 
-
-## [Unidad VIII - Seguridad y Proteccion<a name="Unid8"></a>
+#
+## Unidad VIII - Seguridad y Proteccion<a name="Unid8"></a>
+#
 #### 8.1 Introducción.
 #### 8.2 Conceptos de seguridad y protección.
 #### 8.3 El entorno de seguridad. Amenazas, intrusos y pérdida accidental de datos.
@@ -173,8 +183,9 @@
 #### 8.8 Ataques internos.
 #### 8.9 Malware 
 ### 8.10 Defensas
-
-## [Unidad IX - Introducción a los sistemas Operativos GNU/Linux<a name="Unid9"></a>
+#
+## Unidad IX - Introducción a los sistemas Operativos GNU/Linux<a name="Unid9"></a>
+#
 #### 9.1 Introducción.
 #### 9.2 Historia.
 #### 9.3 Características
@@ -189,7 +200,67 @@
 #### 9.12 Backup y respaldo de archivos.
 #### 9.13 Manejo y configuración de servicios de GNU/Linux ( DNS, VPN, DHCP, MYSQL, Bacula, ftpd, Apache, Samba, Squid etc)
 #
+#
+## Estrategias Metodologicas y Actividades Formativas<a name="Estrategia"></a>
+#
+####  Análisis de casos
+####  Lecturas de materiales y sus respectivos análisis y síntesis
+####  Debates focalizados relacionados a temáticas específicas del programa
+####  Trabajos y exposiciones individuales y en grupos.
+####  Visualización de varios documentales relacionados a la asignatura
+####  Redacción de informes
+####  Elaboración de instrumentos de investigación
+####  Resolución de problemas utilizando comando de consola. 
+####  Extracción de información de sistema utilizando comandos de consola. 
+### Estrategias Generales:
+####  Explicaciones temáticas
+####  Lluvia de ideas
+####  Debates focalizados
+####  Exposiciones individuales y grupales
+####  Trabajos prácticos individuales y grupales
+####  Participaciones activas
+####  Exámenes
+####  Preguntas abiertas
+####  Proyecto de configuración e instalación de servicios.
+#
+### Recursos<a name="Recur"></a>
+#
+####  Plataformas virtuales: Moodle, Classroom
+####  Aplicaciones: Google Meet, Zoom, M. Teams, otras.
+####  Computadoras y/o laptop.
+####  Cualquier APP con acceso a internet y programas de Office
+####  Pantallas interactivas.
+####  Projectores
+####  Vídeos o Documentales
+####  Fuentes Impresas de revistas, libros, artículos.
+####  YouTube 
+#
+### Evaluacion<a name="Evalua"></a>
+#
+#### La evaluación de la asignatura estará compuesta por los siguientes elementos:
+### Evaluación diagnóstica:
+#### Experiencias de aprendizajes previos.
+
+### Evaluación formativa:
+####  Asistencia a clases y puntualidad.
+####  Participación activa en la clase.
+####  Desempeño Nivel de logros alcanzando por los estudiantes en cada unidad, diarios reflexivos.
+
+### Evaluación sumativa:
+####  Prácticas interactivas en el salón de clases: informe escrito (informes de aprendizajes), resolución de problemas. 
+####  Reportes de lectura: Investigaciones de diversos temas y entrega de reporte de lectura sobre investigación
+####  Exámenes parciales (2) de 15 pts. c/u y un examen final de 40 pts.
+####  Trabajo de investigación final de 30 pts.
+####  Instrumentos de evaluación:
+####  Exámenes 
+####  Entrevistas 
+####  Cuestionarios 
+####  Listas de cotejos
+####  Rúbricas 
+####  Otros
+#
 ### Bibliografia Basica<a name="Biblio1"></a>
+#
 #### 1. Jesus Carretero Perez, Felix Garcia Carballeira y Fernando Perez Costoya; (enero 2021). Sistemas Operativos: Una Visión Aplicada. 3 edición, Volumen II.
 #### 2. Gunnar Wolf, (Diciembre 2015). Fundamentos de sistemas Operativos
 #### 3. Martín Silva. (Septiembre 2016). Sistemas Operativos, 1er edición, Editorial Alfaomega Grupo Editor
@@ -201,14 +272,17 @@
 #### 10. William Stallings (2010). Sistemas Operativos, aspectos internos y principio de diseños, Quinta Edición, Editorial Prentice Hall
 #### 11. Daniel Sol Llaven (2015). Sistemas Operativos, Grupo Editorial Patria.
 #### 12. Miquel Colobran Huguet, Josep Maria Arqués Soldevila, Eduard Marco Galindo. (2008). Administración de sistemas operativos en red, Editorial UOC 
-
+#
 ### Bibliografia Complementaria<a name="Biblio2"></a>
+#
 #### 1. Thierry Deman / Freddy Elmaleh, Septiembre 2015. Windows Server 2012R2, administración avanzada, Editorial Eni Ediciones
 #### 2. Jesus Carretero Perez, Felix Garcia Carballeira y Fernando Perez Costoya. Junion 2017. Prácticas de Sistemas Operativos (Spanish Edition.
 #### 3. Alejandro Salazar Yábar/Alejandro Salazar Santibañez. Julio 2022. INSTALACIÓN Y CONFIGURACIÓN DE SISTEMAS : Virtualización de equipos / Instalación de sistemas operativos / Conexión de equipos en red / Clonación de equipos (Spanish Edition)
 #### 4. John Madieu (Enero 2021) Mastering Linux Device Driver Development: Write custom device drivers to support computer peripherals in Linux operating systems.
 #### 5. Jordan Krause(julio 2021). Mastering Windows Server 2019: The complete guide for system administrators to install, manage, and deploy new capabilities with Windows Server 2019, 3rd Edition.
+#
 ### [Referencias en Linea<a name="Referencia"></a>
+#
 #### https://aryconfig.wordpress.com/2014/11/22/administracion-de-sistemas-operativos/
 #### https://sites.google.com/site/servidores153uteq/clusters-de-servidores
 #### https://www.goconqr.com/mapamental/589071/sistemas-operativos
