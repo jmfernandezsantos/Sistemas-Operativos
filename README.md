@@ -64,7 +64,7 @@
 ####  Respeto a la bio-diversidad y protección ambiental
 ####  Ser respetuoso con los estudiantes, propiciando siempre el debate de las ideas y el sentido crítico de los acontecimientos sociales y humanos.
 #
-## [4 -Competencias especificas de la Asignatura<a name="Competencia"></a>
+## 4 -Competencias especificas de la Asignatura<a name="Competencia"></a>
 
 #### 1.- Capacidad para definir, evaluar y Seleccionar plataformas hardware y software para el desarrollo y la ejecución de sistemas, servicios y aplicaciones informáticas.
 #### 2.- Conocer los principios de diseño y principales componentes de los sistemas operativos.
@@ -81,7 +81,7 @@
 #
 ## 5 - Unidades de Aprendizajes / Contenidos<a name="Contenidos"></a>
 
-## [Unidad I -  Introducción a los sistemas operativos<a name="Unid1"></a>
+### Unidad I -  Introducción a los sistemas operativos<a name="Unid1"></a>
 
 #### 1.1 Conceptos generales de un sistema operativo.
 #### 1.2 Historia de los sistemas operativos.
@@ -92,7 +92,7 @@
 #### 1.7 Interfaz de programación de los sistemas Operativos.
 #### 1.8 Ejercicios. 
 
-## [Unidad II - Gestión de Procesos<a name="Unid2"></a>
+### Unidad II - Gestión de Procesos<a name="Unid2"></a>
 
 #### 2.1 Introducción.
 #### 2.2 Concepto de Proceso.
@@ -107,9 +107,9 @@
 #### 2.9 Planificacion del procesador.
 #### 2.10 Algoritmos de planificación.
 #### 2.11 Ejercicios.
-#
-## [Unidad III - Gestión de Memoria<a name="Unid3"></a>
-#
+
+### Unidad III - Gestión de Memoria<a name="Unid3"></a>
+
 #### 3.1 Introducción.
 #### 3.2 Objetivos del sistema de gestión de memoria.
 #### 3.3 Modelo de memoria de un proceso.
@@ -119,9 +119,9 @@
 #### 3.7 Memoria virtual.
 #### 3.8 Servicios de gestión de memoria.
 #### 3.9 Ejercicios. 
-#
-## [Unidad IV - Comunicación y sincronización entre procesos<a name="Unid4"></a>
-#
+
+### Unidad IV - Comunicación y sincronización entre procesos<a name="Unid4"></a>
+
 #### 4.1 Introducción.
 #### 4.2 Procesos concurrentes.
 #### 4.3 Problemas clásicos de comunicación y sincronización.
@@ -135,9 +135,9 @@
 #### 4.5 Paso de mensajes
 #### 4.6 Aspectos de implementación de los mecanismos de sincronización.  
 #### 4.7 Ejercicios
-#
-## [Unidad V - Interbloqueos<a name="Unid5"></a>
-#
+
+### Unidad V - Interbloqueos<a name="Unid5"></a>
+
 #### 5.1 Introducción.
 #### 5.2 Los interbloqueos en un sistema informático.
 #### 5.3 Definición y caracterización del interbloqueo.
@@ -146,9 +146,9 @@
 #### 5.6 Prevención del interbloqueo.
 #### 5.7 Tratamiento del interbloqueo en los sistemas operativos.
 #### 5.8 Ejercicios. 
-#
-## [Unidad VI - Entrada y Salida<a name="Unid6"></a>
-#
+
+### Unidad VI - Entrada y Salida<a name="Unid6"></a>
+
 #### 6.1 Introducción.
 #### 6.2 Características de los dispositivos de E/S.
 #### 6.3 Arquitectura del sistema de entrada/salida.
@@ -160,9 +160,9 @@
 #### 6.9 La red
 #### 6.10 Servicios de entrada/salida
 #### 6.11 Ejercicios. 
-#
-## Unidad VII - Gestión de Archivos y Directorios<a name="Unid7"></a>
-#
+
+### Unidad VII - Gestión de Archivos y Directorios<a name="Unid7"></a>
+
 #### 7.1 Introducción.
 #### 7.2 Concepto de Archivos y Directorios.
 #### 7.3 Jerarquía de archivos y directorios.
@@ -170,9 +170,9 @@
 #### 7.5 Servicios de archivos y directorios.
 #### 7.6 Sistemas de archivos.
 #### 7.7 Ejercicios. 
-#
-## Unidad VIII - Seguridad y Proteccion<a name="Unid8"></a>
-#
+
+### Unidad VIII - Seguridad y Proteccion<a name="Unid8"></a>
+
 #### 8.1 Introducción.
 #### 8.2 Conceptos de seguridad y protección.
 #### 8.3 El entorno de seguridad. Amenazas, intrusos y pérdida accidental de datos.
@@ -183,9 +183,9 @@
 #### 8.8 Ataques internos.
 #### 8.9 Malware 
 ### 8.10 Defensas
-#
-## Unidad IX - Introducción a los sistemas Operativos GNU/Linux<a name="Unid9"></a>
-#
+
+### Unidad IX - Introducción a los sistemas Operativos GNU/Linux<a name="Unid9"></a>
+
 #### 9.1 Introducción.
 #### 9.2 Historia.
 #### 9.3 Características
@@ -199,10 +199,9 @@
 #### 9.11 Manejos de permisos y Tareas Administrativas
 #### 9.12 Backup y respaldo de archivos.
 #### 9.13 Manejo y configuración de servicios de GNU/Linux ( DNS, VPN, DHCP, MYSQL, Bacula, ftpd, Apache, Samba, Squid etc)
-#
-#
+
 ## Estrategias Metodologicas y Actividades Formativas<a name="Estrategia"></a>
-#
+
 ####  Análisis de casos
 ####  Lecturas de materiales y sus respectivos análisis y síntesis
 ####  Debates focalizados relacionados a temáticas específicas del programa
@@ -222,9 +221,9 @@
 ####  Exámenes
 ####  Preguntas abiertas
 ####  Proyecto de configuración e instalación de servicios.
-#
+
 ### Recursos<a name="Recur"></a>
-#
+
 ####  Plataformas virtuales: Moodle, Classroom
 ####  Aplicaciones: Google Meet, Zoom, M. Teams, otras.
 ####  Computadoras y/o laptop.
@@ -234,9 +233,9 @@
 ####  Vídeos o Documentales
 ####  Fuentes Impresas de revistas, libros, artículos.
 ####  YouTube 
-#
+
 ### Evaluacion<a name="Evalua"></a>
-#
+
 #### La evaluación de la asignatura estará compuesta por los siguientes elementos:
 ### Evaluación diagnóstica:
 #### Experiencias de aprendizajes previos.
@@ -258,9 +257,9 @@
 ####  Listas de cotejos
 ####  Rúbricas 
 ####  Otros
-#
+
 ### Bibliografia Basica<a name="Biblio1"></a>
-#
+
 #### 1. Jesus Carretero Perez, Felix Garcia Carballeira y Fernando Perez Costoya; (enero 2021). Sistemas Operativos: Una Visión Aplicada. 3 edición, Volumen II.
 #### 2. Gunnar Wolf, (Diciembre 2015). Fundamentos de sistemas Operativos
 #### 3. Martín Silva. (Septiembre 2016). Sistemas Operativos, 1er edición, Editorial Alfaomega Grupo Editor
@@ -272,17 +271,17 @@
 #### 10. William Stallings (2010). Sistemas Operativos, aspectos internos y principio de diseños, Quinta Edición, Editorial Prentice Hall
 #### 11. Daniel Sol Llaven (2015). Sistemas Operativos, Grupo Editorial Patria.
 #### 12. Miquel Colobran Huguet, Josep Maria Arqués Soldevila, Eduard Marco Galindo. (2008). Administración de sistemas operativos en red, Editorial UOC 
-#
+
 ### Bibliografia Complementaria<a name="Biblio2"></a>
-#
+
 #### 1. Thierry Deman / Freddy Elmaleh, Septiembre 2015. Windows Server 2012R2, administración avanzada, Editorial Eni Ediciones
 #### 2. Jesus Carretero Perez, Felix Garcia Carballeira y Fernando Perez Costoya. Junion 2017. Prácticas de Sistemas Operativos (Spanish Edition.
 #### 3. Alejandro Salazar Yábar/Alejandro Salazar Santibañez. Julio 2022. INSTALACIÓN Y CONFIGURACIÓN DE SISTEMAS : Virtualización de equipos / Instalación de sistemas operativos / Conexión de equipos en red / Clonación de equipos (Spanish Edition)
 #### 4. John Madieu (Enero 2021) Mastering Linux Device Driver Development: Write custom device drivers to support computer peripherals in Linux operating systems.
 #### 5. Jordan Krause(julio 2021). Mastering Windows Server 2019: The complete guide for system administrators to install, manage, and deploy new capabilities with Windows Server 2019, 3rd Edition.
-#
+
 ### [Referencias en Linea<a name="Referencia"></a>
-#
+
 #### https://aryconfig.wordpress.com/2014/11/22/administracion-de-sistemas-operativos/
 #### https://sites.google.com/site/servidores153uteq/clusters-de-servidores
 #### https://www.goconqr.com/mapamental/589071/sistemas-operativos
