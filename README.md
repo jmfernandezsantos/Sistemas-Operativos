@@ -12,10 +12,10 @@
 ### [Unidad IV - Comunicación y sincronización entre procesos](#unid4)
 ### [Unidad V - Interbloqueos ](#unid5)
 ### [Unidad VI - Entrada y Salida](#unid6)
-### [Unidad VII - Gestión de Archivos y Directorios ](#unid7)
-### [Unidad VIII - Seguridad y Proteccion ](#unid8)
+### [Unidad VII - Gestión de Archivos y Directorios](#unid7)
+### [Unidad VIII - Seguridad y Proteccion](#unid8)
 ### [Unidad IX - Introducción a los sistemas Operativos GNU/Linux ](#unid9)
-### [ESTRATEGIAS METODOLOGICAS Y ACTIVIDADES FORMATIVAS:](#Estrategia)
+### [Estrategias Metodologicas y Actividades Formativas](#Estrategia)
 ### [Recursos](#Recur)
 ### [Evaluacion](#Evalua)
 ### [Bibliografia Basica](#Biblio1)
@@ -162,7 +162,7 @@
 #### 7.6 Sistemas de archivos.
 #### 7.7 Ejercicios. 
 
-## [Unidad VIII - Seguridad y Proteccion<a name="Uunid8"></a>
+## [Unidad VIII - Seguridad y Proteccion<a name="Unid8"></a>
 #### 8.1 Introducción.
 #### 8.2 Conceptos de seguridad y protección.
 #### 8.3 El entorno de seguridad. Amenazas, intrusos y pérdida accidental de datos.
