@@ -1,4 +1,6 @@
 
+![](https://www.avancetecnologico.com/wp-content/uploads/2022/02/blog-sistemasoperativos-copia.webp)
+
 ## Sistemas-Operativos
 ## [ Programa y/o Guia docente](#Guia)
 ### [1 -Justificación/fundamentación de la asignatura](#Justifica)
