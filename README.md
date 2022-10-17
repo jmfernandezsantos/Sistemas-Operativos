@@ -201,7 +201,7 @@
 #### 9.13 Manejo y configuración de servicios de GNU/Linux ( DNS, VPN, DHCP, MYSQL, Bacula, ftpd, Apache, Samba, Squid etc)
 #
 ## Estrategias Metodologicas y Actividades Formativas<a name="Estrategia"></a>
-#
+
 ####  Análisis de casos
 ####  Lecturas de materiales y sus respectivos análisis y síntesis
 ####  Debates focalizados relacionados a temáticas específicas del programa
@@ -223,7 +223,7 @@
 ####  Proyecto de configuración e instalación de servicios.
 #
 ### Recursos<a name="Recur"></a>
-#
+
 ####  Plataformas virtuales: Moodle, Classroom
 ####  Aplicaciones: Google Meet, Zoom, M. Teams, otras.
 ####  Computadoras y/o laptop.
@@ -235,7 +235,7 @@
 ####  YouTube 
 #
 ### Evaluacion<a name="Evalua"></a>
-#
+
 #### La evaluación de la asignatura estará compuesta por los siguientes elementos:
 ### Evaluación diagnóstica:
 #### Experiencias de aprendizajes previos.
@@ -259,7 +259,7 @@
 ####  Otros
 #
 ### Bibliografia Basica<a name="Biblio1"></a>
-#
+
 #### 1. Jesus Carretero Perez, Felix Garcia Carballeira y Fernando Perez Costoya; (enero 2021). Sistemas Operativos: Una Visión Aplicada. 3 edición, Volumen II.
 #### 2. Gunnar Wolf, (Diciembre 2015). Fundamentos de sistemas Operativos
 #### 3. Martín Silva. (Septiembre 2016). Sistemas Operativos, 1er edición, Editorial Alfaomega Grupo Editor
@@ -281,7 +281,7 @@
 #### 5. Jordan Krause(julio 2021). Mastering Windows Server 2019: The complete guide for system administrators to install, manage, and deploy new capabilities with Windows Server 2019, 3rd Edition.
 #
 ### [Referencias en Linea<a name="Referencia"></a>
-#
+
 #### https://aryconfig.wordpress.com/2014/11/22/administracion-de-sistemas-operativos/
 #### https://sites.google.com/site/servidores153uteq/clusters-de-servidores
 #### https://www.goconqr.com/mapamental/589071/sistemas-operativos
