@@ -22,7 +22,7 @@
 #### Esta asignatura además proporciona un acercamiento a la línea de comandos de la familia de sistemas operativos basados en Unix (GNU/Linux, BSD,Mac OS X, Android, IOS). 
 #
 
-## [2 -Descripcion de la asignatura](#justificacion)
+## 2 -Descripcion de la asignatura<a name="descri"></a>
 
 #### Esta asignatura corresponde al Ciclo de formación del segundo año de la carrera de Ingeniería de Sistemas. Tiene como prerrequisito la asignatura de Arquitectura de Sistemas, en la cual los estudiantes conocen de las diferentes arquitecturas de sistemas las cuales les ayudan a describir, tanto desde un punto de vista físico como lógico, la forma en la que trabajan los diferentes componentes de los mismos. Los cuatros (04) créditos de la asignatura se distribuyen en dos (02) teóricos y uno (02) práctico, logrando así, por una parte, analizar los principales componentes, funciones y características de los sistemas operativos; y concretar esas teorías en ejercicios a través de los casos prácticos que surgen en las unidades propias para esos fines.
 
@@ -38,7 +38,7 @@
 ####  Introducción a los sistemas Operativos GNU Linux. 
 #
 
-## [3 -Perfil requerido del docente que imparta Sistemas Operativos](#justificarion)
+## 3 -Perfil requerido del docente que imparta Sistemas Operativos<a name="Perfil"></a>
 
 ## En la dimensión académica debe:
 ####  Tener titulación a nivel grado Lic. de Sistemas, Ingeniera de Sistemas e Ingeniería Telemática,
@@ -58,7 +58,7 @@
 ####  Respeto a la bio-diversidad y protección ambiental
 ####  Ser respetuoso con los estudiantes, propiciando siempre el debate de las ideas y el sentido crítico de los acontecimientos sociales y humanos.
 #
-## [4 -Competencias especificas de la Asignatura:](#justification)
+## [4 -Competencias especificas de la Asignatura<a name="Compentencia"></a>
 
 #### 1.- Capacidad para definir, evaluar y Seleccionar plataformas hardware y software para el desarrollo y la ejecución de sistemas, servicios y aplicaciones informáticas.
 #### 2.- Conocer los principios de diseño y principales componentes de los sistemas operativos.
@@ -73,8 +73,8 @@
 #### 11.- Conocimiento y aplicación de los principios fundamentales y técnicas básicas de la programación paralela, concurrente, distribuida y de tiempo real.
 #### 12.- Capacidad para elaborar el pliego de condiciones técnicas de una instalación informática que cumpla los estándares y normativas vigentes
 #
-## [5 - Unidades de Aprendizajes / Contenidos](#Justification)
-## [Unidad I -  Introducción a los sistemas operativos](#Justification)
+## [5 - Unidades de Aprendizajes / Contenidos<a name="Contenidos"></a>
+## [Unidad I -  Introducción a los sistemas operativos<a name="Unid1"></a>
 ## [Unidad II - Gestión de Procesos](#justification)
 ## [Unidad III - Gestión de Memoria](#justification)
 ## [Unidad IV - Comunicación y sincronización entre procesos](#Justification)
