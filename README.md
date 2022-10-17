@@ -43,7 +43,6 @@
 ####  Seguridad y protección
 ####  Introducción a los sistemas Operativos GNU Linux. 
 #
-
 ## 3 -Perfil requerido del docente que imparta Sistemas Operativos<a name="Perfil"></a>
 
 ### En la dimensión académica debe:
@@ -81,6 +80,7 @@
 #
 ## 5 - Unidades de Aprendizajes / Contenidos<a name="Contenidos"></a>
 
+#
 ### Unidad I -  Introducción a los sistemas operativos<a name="Unid1"></a>
 
 #### 1.1 Conceptos generales de un sistema operativo.
@@ -91,7 +91,7 @@
 #### 1.6 Estructuras de los sistemas operativos.
 #### 1.7 Interfaz de programación de los sistemas Operativos.
 #### 1.8 Ejercicios. 
-
+#
 ### Unidad II - Gestión de Procesos<a name="Unid2"></a>
 
 #### 2.1 Introducción.
@@ -279,9 +279,9 @@
 #### 3. Alejandro Salazar Yábar/Alejandro Salazar Santibañez. Julio 2022. INSTALACIÓN Y CONFIGURACIÓN DE SISTEMAS : Virtualización de equipos / Instalación de sistemas operativos / Conexión de equipos en red / Clonación de equipos (Spanish Edition)
 #### 4. John Madieu (Enero 2021) Mastering Linux Device Driver Development: Write custom device drivers to support computer peripherals in Linux operating systems.
 #### 5. Jordan Krause(julio 2021). Mastering Windows Server 2019: The complete guide for system administrators to install, manage, and deploy new capabilities with Windows Server 2019, 3rd Edition.
-
+#
 ### [Referencias en Linea<a name="Referencia"></a>
-
+#
 #### https://aryconfig.wordpress.com/2014/11/22/administracion-de-sistemas-operativos/
 #### https://sites.google.com/site/servidores153uteq/clusters-de-servidores
 #### https://www.goconqr.com/mapamental/589071/sistemas-operativos
