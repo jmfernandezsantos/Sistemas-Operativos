@@ -1,8 +1,23 @@
 
-# Sistemas-Operativos
-### [ Programa y/o Guia docente](#Guia)
-### [1 -Justificación/fundamentación de la asignatura](#justification)
+## Sistemas-Operativos
+## [ Programa y/o Guia docente](#Guia)
+### [1 -Justificación/fundamentación de la asignatura](#Justifica)
+### [2 -Descripcion de la asignatura](#descri)
+### [3 -Perfil requerido del docente que imparta Sistemas Operativos](#perfil)
+### [4 -Competencias especificas de la Asignatura:](#competencia)
+### [5 - Unidades de Aprendizajes / Contenidos](#contenidos)
+### [Unidad I -  Introducción a los sistemas operativos](#unid1)
+### [Unidad II - Gestión de Procesos](#unid2)
+### [Unidad III - Gestión de Memoria](#unid3)
+### [Unidad IV - Comunicación y sincronización entre procesos](#unid4)
+### [Unidad V - Interbloqueos ](#unid5)
+### [Unidad VI - Entrada y Salida](#unid6)
+### [Unidad VII - Gestión de Archivos y Directorios ](#unid7)
+### [Unidad VIII - Seguridad y Proteccion ](#unid8)
+### [Unidad IX - Introducción a los sistemas Operativos GNU/Linux ](#unid9)
+## Programa y/o Guia Docente<a name="Guia"></a>
 
+## 1 -Justificación/fundamentación de la asignatura<a name="Justifica"></a>
 #### Esta asignatura tiene como objetivo introducir al alumnado en la gestión de recursos que debe hacer un sistema operativo para proveer de un interfaz uniforme a los programas.      Los alumnos deberán alcanzar las competencias necesarias para manejar y administrar un sistemaoperativo, así como adquirir la capacidad de instalar, configurar y operar distintos sistemas operativos. Los conceptos que se introducen le permitirán programar de una forma más efectiva, con mayor conocimiento sobre lo que está ocurriendo a más bajo nivel en el sistema. Además,se introducen otros conceptos como los del paralelismo y la necesidad de colaboración entre procesos para gestionar recursos compartidos. 
 #### Esta asignatura además proporciona un acercamiento a la línea de comandos de la familia de sistemas operativos basados en Unix (GNU/Linux, BSD,Mac OS X, Android, IOS). 
 #
@@ -43,7 +58,7 @@
 ####  Respeto a la bio-diversidad y protección ambiental
 ####  Ser respetuoso con los estudiantes, propiciando siempre el debate de las ideas y el sentido crítico de los acontecimientos sociales y humanos.
 #
-## [3 -Competencias especificas de la Asignatura:](#justification)
+## [4 -Competencias especificas de la Asignatura:](#justification)
 
 #### 1.- Capacidad para definir, evaluar y Seleccionar plataformas hardware y software para el desarrollo y la ejecución de sistemas, servicios y aplicaciones informáticas.
 #### 2.- Conocer los principios de diseño y principales componentes de los sistemas operativos.
@@ -58,7 +73,7 @@
 #### 11.- Conocimiento y aplicación de los principios fundamentales y técnicas básicas de la programación paralela, concurrente, distribuida y de tiempo real.
 #### 12.- Capacidad para elaborar el pliego de condiciones técnicas de una instalación informática que cumpla los estándares y normativas vigentes
 #
-## [4 - Unidades de Aprendizajes / Contenidos](#Justification)
+## [5 - Unidades de Aprendizajes / Contenidos](#Justification)
 ## [Unidad I -  Introducción a los sistemas operativos](#Justification)
 ## [Unidad II - Gestión de Procesos](#justification)
 ## [Unidad III - Gestión de Memoria](#justification)
