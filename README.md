@@ -5,8 +5,8 @@
 |---------------------|------|
 |![](./img/el%20s.jfif)|![](https://upload.wikimedia.org/wikipedia/commons/3/35/Escudo_UCSD.png)|
 #
-
-## Sistemas-Operativos
+# Sistemas-Operativos
+#
 ## [ Programa y/o Guia docente](#Guia)
 ### [1 -Justificación/fundamentación de la asignatura](#Justifica)
 ### [2 -Descripcion de la asignatura](#descri)
