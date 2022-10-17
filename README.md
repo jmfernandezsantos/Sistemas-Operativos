@@ -82,7 +82,7 @@
 
 #
 ### Unidad I -  Introducción a los sistemas operativos<a name="Unid1"></a>
-
+#
 #### 1.1 Conceptos generales de un sistema operativo.
 #### 1.2 Historia de los sistemas operativos.
 #### 1.3 Funciones y características de los sistemas operativos
@@ -93,7 +93,7 @@
 #### 1.8 Ejercicios. 
 #
 ### Unidad II - Gestión de Procesos<a name="Unid2"></a>
-
+#
 #### 2.1 Introducción.
 #### 2.2 Concepto de Proceso.
 #### b2.3 Multitarea
