@@ -1,7 +1,10 @@
 
 ![](https://www.avancetecnologico.com/wp-content/uploads/2022/02/blog-sistemasoperativos-copia.webp)
 
-![](./img/el%20s.jfif)
+|Jose Miguel Fernandez| UCSD |
+|---------------------|------|
+|![](./img/el%20s.jfif)|![](https://upload.wikimedia.org/wikipedia/commons/3/35/Escudo_UCSD.png)|
+#
 
 ## Sistemas-Operativos
 ## [ Programa y/o Guia docente](#Guia)
